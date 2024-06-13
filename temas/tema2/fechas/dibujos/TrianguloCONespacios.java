@@ -1,4 +1,4 @@
-package dibujos;
+package tema2.fechas.dibujos;
 
 import java.util.Scanner;
 

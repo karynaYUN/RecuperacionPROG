@@ -1,7 +1,6 @@
-package fechas;
+package tema2.fechas;
 
 import java.time.DateTimeException;
-import java.time.Duration;
 import java.time.LocalDate;
 import java.util.Scanner;
 
