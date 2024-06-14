@@ -1,4 +1,4 @@
-package tema2.fechas.dibujos;
+package tema2.dibujos;
 
 import java.util.Scanner;
 
